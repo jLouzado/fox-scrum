@@ -1,19 +1,33 @@
 ---
-bg: "owl.jpg"
+bg: "fox2.jpg"
 layout: page
-title: "About"
-crawlertitle: "Why and how this blog was created"
+title: "Info"
+crawlertitle: "What is the purpose of the site"
 permalink: /about/
-summary: "About this blog"
+summary: "We started this site because..."
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+  <h2 class="category-key" id="{{ t | downcase }}">{{ t | capitalize }}</h2>
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+  <ul class="year">
+    {% for post in posts %}
+      {% if post.tags contains t %}
+        <li>
+          {% if post.lastmod %}
+            <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
+            <span class="date">{{ post.lastmod | date: "%d-%m-%Y"  }}</span>
+          {% else %}
+            <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%d-%m-%Y"  }}</span>
+          {% endif %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+{% endfor %}
