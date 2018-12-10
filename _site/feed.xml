@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foxes</title>
+    <description>Foxes are the best, here's a site about it.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 10 Dec 2018 15:42:24 +0530</pubDate>
+    <lastBuildDate>Mon, 10 Dec 2018 15:42:24 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Diet Information</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Foxes are omnivorous, which means they can eat a variety of food of both plant and animal origin. They eat small mammals and birds as well as large insects&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In the spring, summer and fall, foxes eat mainly fruit, berries and nuts. In the winter, the lack of available plants forces foxes to switch to meat&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Foxes are more active at nigh and hunt at night. They hunt more like a cat, slowly and quietly stalking its prey until the fox gets within striking distance They also also eat roadkill and decaying flesh of dead animals&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A full grown Fox typically eat 0.5 – 1 kilograms of food per day&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 29 Jun 2016 18:39:47 +0530</pubDate>
+        <link>http://localhost:4000/posts/Diet-Information/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/Diet-Information/</guid>
+        
+        <category>Info</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>Mating Habits</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The mating season for foxes are December to February.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Foxes primarily have one mate each winter. The pair stay together to act as parents to the new borns.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Their gestation period(development of a child or young animal while it is still inside its mother’s body) is between 51 and 53 days&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A litter of 4 – 6 kits are produced each year, however, litters may be as large as 13. Kits are born blind and may weigh as much as 150 grams&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The baby foxes open eyes by 2 weeks and take their steps out of the den by 5 weeks&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;They remain with their mother until Autumn when they disperse at approximately 8 – 10 months old to find territories and mates of their own&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 28 Jun 2016 21:39:47 +0530</pubDate>
+        <link>http://localhost:4000/posts/mating/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/mating/</guid>
+        
+        <category>Info</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>FOXES ARE SOLITARY</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/59739-istock-867491216.jpg&quot; alt=&quot;FOXES ARE SOLITARY&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Jun 2016 21:39:47 +0530</pubDate>
+        <link>http://localhost:4000/posts/image-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/image-2/</guid>
+        
+        <category>gallery</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+      <item>
+        <title>THEY ARE GOOD PARENTS</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://www.animalslook.com/media/foxes-and-their-babies-furry-and-adorable-13-pictures/foxes-and-their-babies-furry-and-adorable-13-pictures-6.jpg&quot; alt=&quot;THEY ARE GOOD PARENTS&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Jun 2016 21:39:47 +0530</pubDate>
+        <link>http://localhost:4000/posts/Image-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/Image-1/</guid>
+        
+        <category>gallery</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+  </channel>
+</rss>
